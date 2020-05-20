@@ -1,4 +1,4 @@
-[![KR-Ravindra](https://circleci.com/gh/KR-Ravindra/Operationalize_Microservices_API.svg?style=svg)](https://circleci.com/gh/KR-Ravindra/Operationalize-ML-microservie-API)
+[![KR-Ravindra](https://circleci.com/gh/KR-Ravindra/Operationalize_Microservices_API.svg?style=svg)](https://circleci.com/gh/KR-Ravindra/Operationalize_Microservices_API)
 
 ## Project Overview
 

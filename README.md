@@ -82,14 +82,14 @@ make install
     ```bash
     ./upload_docker.sh
     ```
-2. Kubernets
+2. Kubernetes
     > Start the minikube server
     ```bash
     minikube start
     ```
-    > Create a **run_kubernets.sh** file which is same as docker.
+    > Create a **run_kubernetes.sh** file which is same as docker.
     * Step 1 : Create a Docker path variable
-    * Step 2 : Run Docker hub container with kubernets
+    * Step 2 : Run Docker hub container with kubernetes
     * Step 3 : List all the pods after running
     * Step 4 : Forward the container to port 80
 
@@ -104,7 +104,7 @@ make install
     Handling connection for 8000
     ```
 
-    > **Important** Delete the kubenets cluster 
+    > **Important** Delete the kubenetes cluster 
     ```bash
     minikube delete
     ```
